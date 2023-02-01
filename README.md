@@ -7,4 +7,4 @@ Please read the report for more information.
 ![](Concept.png)
 
 ## User Guide
-Please start the InterfaceInteraction.py file from a terminal. 
+Please start the UserInteraction.py file from a terminal. The command is python "path_to_file". Please note that all the .py files should be located in the same folder. 
