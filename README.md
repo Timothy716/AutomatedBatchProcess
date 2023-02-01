@@ -5,3 +5,6 @@ In the reactor should be a certain pH-value and a specified temperature. The thr
 Please read the report for more information. 
 
 ![](Concept.png)
+
+## User Guide
+Please start the InterfaceInteraction.py file from a terminal. 
